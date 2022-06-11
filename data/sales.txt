@@ -1,0 +1,16 @@
+#		-	-	-	-	-	-	-	-	-	-
+#	Outfitters
+#		-	-	-	-	-	-	-	-	-	-
+
+outfitter "plugins"
+#		En
+	"Vector Engine (Reality Class)"
+
+#		-	-	-	-	-	-	-	-	-	-
+#	Shipyards
+#		-	-	-	-	-	-	-	-	-	-
+
+shipyard "plugins"
+#		HW
+	"Kar Ik Vot 637"
+	"Kar Ik Vot 711"

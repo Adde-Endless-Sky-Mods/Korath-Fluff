@@ -1,0 +1,32 @@
+#		-	-	-	-	-	-	-	-	-	-
+#	Override
+#		-	-	-	-	-	-	-	-	-	-
+
+fleet "Large Kor Sestor"
+	add variant 12
+		"Kar Ik Vot 637"
+		"Tek Far 71 - Lek"
+		"Met Par Tek 53" 3
+		"Far Osk 27" 2
+		"Far Lek 14" 10
+	add variant 16
+		"Kar Ik Vot 637"
+		"Tek Far 78 - Osk (Close Quarters)"
+		"Tek Far 71 - Lek (Close Quarters)"
+		"Far Osk 27" 8
+		"Far Lek 14" 10
+	add variant 8
+		"Kar Ik Vot 711"
+		"Kar Ik Vot 349"
+	add variant 5
+		"Kar Ik Vot 711"
+		"Tek Far 78 - Osk (Close Quarters)"
+		"Tek Far 71 - Lek (Close Quarters)"
+		"Met Par Tek 53" 3
+		"Far Osk 27" 8
+		"Far Lek 14" 10
+	add variant 4
+		"Kar Ik Vot 711"
+		"Tek Far 109" 2
+		"Far Osk 27" 14
+		"Far Lek 14" 18
