@@ -3,6 +3,8 @@
 #		-	-	-	-	-	-	-	-	-	-
 
 outfitter "plugins"
+#		Gu
+	"Korath Disruptor Gun"
 #		En
 	"Vector Engine (Reality Class)"
 
