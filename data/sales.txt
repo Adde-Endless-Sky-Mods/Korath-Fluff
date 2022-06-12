@@ -2,7 +2,7 @@
 #	Outfitters
 #		-	-	-	-	-	-	-	-	-	-
 
-outfitter "plugins"
+outfitter "korath plugins"
 #		Gu
 	"Korath Disruptor Gun"
 #		En
@@ -12,7 +12,7 @@ outfitter "plugins"
 #	Shipyards
 #		-	-	-	-	-	-	-	-	-	-
 
-shipyard "plugins"
+shipyard "korath plugins"
 #		HW
 	"Kar Ik Vot 637"
 	"Kar Ik Vot 711"
